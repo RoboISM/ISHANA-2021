@@ -1,5 +1,5 @@
 # Instructions
-1. Extract the zip file provided in [website](https://takshak.roboism.in/competitions/ishana)
+1. Extract the zip file provided in releases of this repo.
 2. Images with json having same name are provided
 3. Extract the starting co-ordinate and final co-ordinate from json for the respective image
 4. Provide the pixel values so as to start from the starting point and reach final point while sticking
