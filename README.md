@@ -24,4 +24,6 @@ You have to submit your code in a specified format in last 3 days.
 Code can submitted a maximum of 3 times each day.
 The leaderboard will show your result in the whole dataset in last 3 days.
 
+[Discord Server Link](https://discord.gg/Zt5t6gHv)
+[Website](https://takshak.roboism.in/competitions/ishana)
 # Happy Coding
