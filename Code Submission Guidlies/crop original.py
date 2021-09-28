@@ -21,6 +21,14 @@ def find_points(start_point, end_point):
         path.append([end_point[0], j])
     
     return path
+ 
+
+"""Remember your code should read all the images in 
+Image folder. Image name and the corresponding json 
+file name from JSON folder. Your code should generate a
+single Json file in the same fashion as said for all
+images. Name of the json should be the team name.
+"""
 
 filenames= os.listdir()
 imagenames=[]
